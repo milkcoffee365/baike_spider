@@ -12,7 +12,7 @@
 ## 爬虫模块
 
 |模块名称|说明|python模块|
-|-|
+|:-:|:-:|:-:|
 |spider_main|爬虫主函数|无|
 |url_manager|url链接调度器|无|
 |html_downloader|网页下载器|urllib2|
